@@ -7,6 +7,8 @@ To play, you simply press "Enter" each round to randomly pick a card. Your oppon
 
 [img]
 
-Cards :
+## Cards
+
+Cards are numbers (2-10) and special characters. Find below the list from the strongest to the weakest :
 
 [tabl or img of tabl]
