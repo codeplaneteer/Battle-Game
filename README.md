@@ -5,10 +5,10 @@
 
 To play, you simply press "Enter" each round to randomly pick a card. Your opponent will automatically take one as well, and the point will go to the person having a stronger card. Once no card are remaining, you either win or lose depending on your score.
 
-[img]
+![image](https://user-images.githubusercontent.com/66722031/218270632-4cf11bff-a8d4-417c-81b7-2e18d24cad5d.png)
 
 ## Cards
 
 Cards are numbers (2-10) and special characters. Find below the list from the strongest to the weakest :
 
-[tabl or img of tabl]
+**✻ ; ♚ ; ♛ ; ♝ ; 10 ; 9 ; 8 ; 7 ; 6 ; 5 ; 4 ; 3 ; 2**
